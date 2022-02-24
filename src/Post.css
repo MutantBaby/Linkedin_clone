@@ -1,0 +1,47 @@
+.post {
+  background-color: white;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding: 15px;
+}
+
+.post .post__container {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.post__container .container__setting {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.post__container .post__avatar__icon {
+  width: 70px;
+  height: 70px;
+}
+
+.post__container .post__user {
+  margin-left: 10px;
+}
+
+.post__user > p {
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  color: rgb(100, 100, 100);
+}
+
+.post__user .post__user__icon {
+  margin-left: 5px;
+}
+
+.post__message {
+  overflow-wrap: anywhere;
+  font-size: 16px;
+}
+
+.post__btn__icon {
+  display: flex;
+  justify-content: flex-start;
+}

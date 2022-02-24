@@ -1,0 +1,15 @@
+.inputOptions {
+  display: flex;
+  align-items: center;
+  margin: 15px 0px 10px 0px;
+  cursor: pointer;
+  padding: 5px 10px;
+  border-radius: 10px;
+  color: gray;
+}
+
+.inputOptions:hover {
+  border-radius: 10px;
+  background-color: whitesmoke;
+  color: black;
+}

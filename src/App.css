@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+iframe {
+  pointer-events: none;
+}
+
+.app__login {
+  background-color: white !important;
+}
+
+.App {
+  background-color: #f3f2ef;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.app__body {
+  background-color: #f3f2ef;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  margin: 40px 20px 0px 20px;
+}
