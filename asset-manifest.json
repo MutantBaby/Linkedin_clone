@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Linkedin_clone/static/css/main.b73dd418.chunk.css",
+    "main.js": "/Linkedin_clone/static/js/main.69f9352b.chunk.js",
+    "main.js.map": "/Linkedin_clone/static/js/main.69f9352b.chunk.js.map",
+    "runtime-main.js": "/Linkedin_clone/static/js/runtime-main.e6ac5825.js",
+    "runtime-main.js.map": "/Linkedin_clone/static/js/runtime-main.e6ac5825.js.map",
+    "static/js/2.8f5f939b.chunk.js": "/Linkedin_clone/static/js/2.8f5f939b.chunk.js",
+    "static/js/2.8f5f939b.chunk.js.map": "/Linkedin_clone/static/js/2.8f5f939b.chunk.js.map",
+    "index.html": "/Linkedin_clone/index.html",
+    "precache-manifest.590952f891a88c6f226d05f53306614c.js": "/Linkedin_clone/precache-manifest.590952f891a88c6f226d05f53306614c.js",
+    "service-worker.js": "/Linkedin_clone/service-worker.js",
+    "static/css/main.b73dd418.chunk.css.map": "/Linkedin_clone/static/css/main.b73dd418.chunk.css.map",
+    "static/js/2.8f5f939b.chunk.js.LICENSE.txt": "/Linkedin_clone/static/js/2.8f5f939b.chunk.js.LICENSE.txt",
+    "static/media/LI-Logo.png": "/Linkedin_clone/static/media/LI-Logo.c24cde28.png",
+    "static/media/linkedin.png": "/Linkedin_clone/static/media/linkedin.d492efc7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6ac5825.js",
+    "static/js/2.8f5f939b.chunk.js",
+    "static/css/main.b73dd418.chunk.css",
+    "static/js/main.69f9352b.chunk.js"
+  ]
+}
